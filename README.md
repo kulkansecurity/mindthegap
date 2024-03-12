@@ -3,7 +3,8 @@
 Mind The Gap is a Python-based tool specifically designed for users to identify the "patch gap" in their Ubuntu release - the delay between the disclosure of a vulnerability and the patch release. By querying Ubuntu's CVE system, it provides a clearer picture of the current security standing of different Ubuntu versions.
 
 More on Ubuntu's patch gap and an introduction to Mind The Gap is available at:
-https://blog.kulkan.com/
+
+- https://blog.kulkan.com/measuring-the-ubuntu-patch-gap-with-mind-the-gap-ccac07e1391b
 
 ![MindTheGap](screencapture.png?raw=true "MindTheGap")
 
